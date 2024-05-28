@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi-Square Analysis</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            }
+            html{scroll-behavior: smooth;}
+            body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            /* height: 100%; */
+            }
+
+            @font-face {
+            font-family: Roca One;
+            src: url(Rozha_One.woff);
+            }
+
+
+            header {
+                background-color: #592558;
+                color: #fff;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 1rem;
+            }
+            
+            header h1 {
+                margin: 0;
+                font-size: 1.2rem;
+                font-family: Roca One;
+            }
+            
+            nav ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                display: flex;
+            }
+            
+            main {
+                height: 100%;
+                background-size:cover;
+                background-repeat: repeat-y;
+                
+                background-image: url('/static/Website_Images/bg_pages.jpeg');
+                padding: 2.5rem;
+                align-items: center;
+            }
+            main h2 {
+                color: #156669;
+                line-height: 1;
+                font-size: 3.75rem;
+                margin-top: 0.5rem;
+                margin-bottom: 4rem;
+                font-family: Roca One;
+                text-align: center;
+            }
+
+            main p {
+                font-size: 35px;
+                color: #156669;
+                margin-bottom: 2.5rem;
+                line-height: 1;
+                font-family: Roca One;
+            }
+            .table-container{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 80px;
+            }
+
+            .table-style{
+                /* width:100px; */
+                border-collapse: collapse;
+                background: red;
+            }
+
+            .image-style {
+            width: 100px;
+            height: auto;
+            }
+            .sub-section p1{
+                font-size: 25px;
+                color: #156669;
+                margin-top: 40px;
+            }
+            .sub-section{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-bottom: 5rem;
+            }
+    </style>
+</head>
+<body >
+    <header>
+        <h1>Sentiment Analysis for Enhanced Well-Being using NLP and Chi-Square modelling</h1>
+        <nav>
+            <ul>
+              <img src="static/Website_Images/logo.png" alt="" width="150" height="50" />
+            </ul>
+          </nav>
+    </header>
+    
+    <main >
+
+        <!-- time managment -->
+        <h2>Chi - Square Analysis</h2>
+        <section class="sub-section" >
+            <p >Time Management</p>
+            <!-- Display the DataFrame for Time Management as an HTML table -->
+            <div class="table-container" >
+                <table class="table-style">{{ table1|safe }}</table>
+                <img src={{f1}} alt="Time Management" width="500",class='image-style'>
+            </div>
+            <p1>{{res1}}</p1>
+        </section>
+
+        <section class="sub-section">
+            <p>Sleeping Habits</p>
+            <div class="table-container">
+                <table class="table-style">{{ table2|safe }}</t1>
+                <img src={{f2}} alt="Sleeping Habits" width="500" height="300">
+            </div>
+            
+            <!-- Text related to Sleeping Habits -->
+            <p1>{{res2}}</p1>
+        </section>
+    
+        <!-- Activity Section -->
+        <section class="sub-section">
+            <p>Physical Activity</p>
+            <!-- Display the DataFrame for Physical Activity as an HTML table -->
+            <div class="table-container">
+                <table class="table-style">{{ table3|safe }}</t1>
+                <!-- Display the picture related to Physical Activity -->
+                <img src={{f3}} alt="Physical Activity" width="500" height="300">
+            </div>
+            
+            <!-- Text related to Physical Activity -->
+            <p1>{{res3}}</p1>
+        </section>
+    </main>
+    
+</body>
+</html>

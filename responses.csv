@@ -1,0 +1,260 @@
+q1,q2,tm,pa,sl,neg,neu,pos,com,fe
+good,happy!!!!!!!!,,,,0,1,0,0,neu
+Good ,Nice OKAY HAPPY!!,Excellent,Sometimes,Sometimes,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0,-0.5719,neg
+Good ,i hate it,Excellent,Often,Often,0.487,0.132,0.382,-0.2023,neg
+Good ,i hate it,Excellent,Often,Often,0.487,0.132,0.382,-0.2023,neg
+Good ,i hate it,Excellent,Often,Often,0.487,0.132,0.382,-0.2023,neg
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0,-0.5719,neg
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Sometimes,0,0,1,0.9446,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0,1,0.9239,pos
+not soooo good tired bruh,"didnt do anything da , now i have to do",Poor,Rarely,Rarely,0.162,0.675,0.162,0,neu
+bad,Nice OKAY HAPPY!!,Excellent,Often,Sometimes,0,0.116,0.884,0.8248,pos
+bad,Nice OKAY HAPPY!!,Excellent,Often,Sometimes,0,0.116,0.884,0.8248,pos
+Good ,12,Excellent,Often,Often,0,0.256,0.744,0.4404,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+no,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0.087,0.913,0.8873,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+it was a really good day,,Excellent,Often,Often,0,0.556,0.444,0.4927,pos
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,eeee,Excellent,Often,Sometimes,0,0.256,0.744,0.4404,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0,-0.5719,neg
+Good ,eeee,Excellent,Often,Sometimes,0,0.256,0.744,0.4404,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+eee,no no,Excellent,Often,Rarely,0.688,0.312,0,-0.296,neg
+it was a really good day,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0.223,0.777,0.9314,pos
+not soooo good tired bruh,i hate it,Poor,Rarely,Rarely,0.488,0.32,0.192,-0.5719,neg
+not soooo good tired bruh,"didnt do anything da , now i have to do",Poor,Rarely,Rarely,0.162,0.675,0.162,0,neu
+Good ,Nice OKAY HAPPY!!,Average,Often,Sometimes,0,0,1,0.9239,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0,0,1,0.9446,pos
+Good ,i hate it,Excellent,Often,Often,0.487,0.132,0.382,-0.2023,neu
+it was a really good day,Nice OKAY HAPPY!!,Excellent,Often,Often,0,0.265,0.735,0.9023,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0,-0.5719,neg
+"bad, not good",i hate it,Average,Often,Often,0.368,0.316,0.316,-0.1285,neu
+Good amazing,had a great day,Excellent,Often,Often,0,0.222,0.778,0.7906,pos
+Negative,I am sad,Average,Sometimes,Rarely,0.608,0.392,0,-0.4767,neg
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+a,a,Excellent,Often,Often,0,1,0,0,neu
+a,a,Excellent,Often,Often,0,1,0,0,neu
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0,0.451,0.549,0.7067,pos
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+Good,dfdf,Excellent,Often,Often,0,1,0,0,neu
+I felt good when I had food.,Its okay.,Average,Sometimes,Rarely,0,0.455,0.545,0.5859,pos
+Good,Interactive,Average,Often,Rarely,0,1,0,0,neu
+good,,Excellent,Often,Often,0,0,1,0.4404,pos
+good,I did  not have internship meeting today. I am very happy!,Average,Rarely,Often,0,0.677,0.323,0.6468,pos
+Hello! I am feeling amazing.,It was a good day. We had a project to do and we worked a lot. It felt very productive.,Excellent,Sometimes,Often,0.0,0.793,0.207,0.5707,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+Good,Nice very Happy So EXITED!!!,Excellent,Often,Often,0.0,0.451,0.549,0.7067,pos
+not soooo good tired bruh,i hate it,Excellent,Rarely,Sometimes,0.488,0.32,0.192,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Rarely,Often,0.0,0.0,1.0,0.9239,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+Oh hi it was zamazingg,not good,Excellent,Rarely,Often,0.0,0.633,0.367,0.4404,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello hello hello
+","my name is Anjali
+",Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+"hello my name is Anjali
+","today's day was amazing
+",Excellent,Often,Often,0.0,0.678,0.322,0.5859,pos
+"hello my name is Anjali
+","today's day was amazing
+",Excellent,Often,Often,0.0,0.678,0.322,0.5859,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,i hate it,Excellent,Often,Often,0.487,0.132,0.382,-0.2023,neu
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!! powerful!!!!!!!!!!!!I love it,Excellent,Often,Often,0.0,0.099,0.901,0.9592,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Sometimes,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Sometimes,0.0,0.0,1.0,0.9239,pos
+kavya,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.116,0.884,0.8248,pos
+not soooo good tired bruh,i hate it,Excellent,Often,Often,0.488,0.32,0.192,-0.5719,neg
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0.0,0.0,1.0,0.9446,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0.0,0.0,1.0,0.9446,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0.0,0.0,1.0,0.9446,pos
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.0,1.0,0.9239,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0.0,0.0,1.0,0.9446,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+Good ,Nice OKAY HAPPY!! powerful,Excellent,Often,Often,0.0,0.0,1.0,0.9446,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+"bad
+","really not good
+",Excellent,Often,Often,0.756,0.244,0.0,-0.7339,neg
+"I had an amazing day
+","I feel so amazing great
+",Excellent,Often,Often,0.0,0.294,0.706,0.9182,pos
+it was a really good day,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.265,0.735,0.9023,pos
+bad,i hate it,Excellent,Often,Often,0.649,0.351,0.0,-0.5719,neg
+"I am feeling very productive and tired at the same time
+","my day was great I have been working on this project all day long
+and I am so exhausted now I just want to sleep
+",Excellent,Rarely,Sometimes,0.159,0.67,0.171,-0.1293,neu
+Hello. It was a good day,Nice,Excellent,Often,Often,0.0,0.58,0.42,0.4404,pos
+It was a bad day,,Excellent,Often,Often,0.538,0.462,0.0,-0.5423,neg
+Hello I feel good,,Excellent,Often,Often,0.0,0.408,0.592,0.4404,pos
+Not good,,Excellent,Often,Often,0.706,0.294,0.0,-0.3412,neg
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+"hello I am hamping in amazing day how are you
+","hi I am good I had a test today
+",Excellent,Often,Often,0.0,0.66,0.34,0.7717,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+I did not have a great day today because I was pretty busy. Although I did feel a lot productive which made me feel amazing!,I ate food in Block 4 today and I worked on my project for Science Exhibition,Average,Sometimes,Sometimes,0.163,0.756,0.081,-0.5083,neg
+"I had a good day today I ate good food
+","I was a fine day I went to college
+college makes me a little sad is very tiring
+",Average,Sometimes,Sometimes,0.102,0.62,0.277,0.5849,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+hi,,Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+good,,Excellent,Often,Often,0.0,0.0,1.0,0.4404,pos
+,,Excellent,Often,Often,0.0,0.0,0.0,0.0,neu
+Good ,Nice OKAY HAPPY!!,Excellent,Rarely,Sometimes,0.0,0.0,1.0,0.9239,pos
+hello i feel good,NICE OKAY HMM,Excellent,Often,Often,0.0,0.603,0.397,0.3885,pos
+"I am feeling overwhelmed
+","today was kind of ok
+",Average,Rarely,Sometimes,0.0,0.52,0.48,0.3832,pos
+lazy,sleep,Excellent,Often,Sometimes,0.0,1.0,0.0,0.0,neu
+lazy,NICE,Excellent,Often,Often,0.0,1.0,0.0,0.0,neu
+it was a really good day,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.265,0.735,0.9023,pos
+it was a really good day,Nice OKAY HAPPY!!,Excellent,Often,Often,0.0,0.265,0.735,0.9023,pos
+"hi my name is Anjali I am feeling overwhelmed
+","today was amazing I met my brother my relatives the day status out great and I think I'm going to seiez the day today
+",Average,Rarely,Often,0.0,0.71,0.29,0.8625,pos
+"hi my name is Anjali today is Tuesday 8:30 and I am so so so happy
+because I woke up early and had a good start of the day I hope my entire day will be productive today
+","today was great because I woke up at 7:30 in the morning and I am working now which makes me so happy and feel good about myself
+",Average,Rarely,Often,0.0,0.692,0.308,0.9767,pos
+not soooo good tired bruh,"didnt do anything da , now i have to do",Excellent,Sometimes,Often,0.162,0.675,0.162,0.0,neu
+"two good sentiment analysis
+","I just love my project
+",Excellent,Often,Often,0.0,0.458,0.542,0.7964,pos
+not soooo good tired bruh,Nice OKAY HAPPY!!,Excellent,Often,Often,0.156,0.194,0.65,0.8248,pos

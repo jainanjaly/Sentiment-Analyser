@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire</title>
+    <style>
+        html{
+            scroll-behavior: smooth;
+        }
+        img {
+            width: 100%; /* Adjust the width as needed */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Ensure it's not inline */
+            margin: auto; /* Center the image */
+        }
+        label, input, select{
+            margin-bottom: 12px;
+            font-size: 22px;
+        }
+        main h1{
+            font-size: 30px;
+        }
+
+        
+        input,select{
+            background:transparent;
+            border: 1.7px solid #38013846;
+            border-radius: 5px;
+            padding-left: 6px;
+            font-size: 15px;
+            /* margin-left: 300px; */
+        }
+        input:focus,select:focus{
+            background:rgba(89, 37, 88,0.06);
+            border: 1.7px solid rgba(56, 1, 56, 0.767);
+        }
+        input,select{
+            width: 100%;
+            height: 40px;
+        }
+        form{
+            width: 60%;
+        }
+        button {
+            border: none;
+            color:white;
+            font-weight: 600;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px;
+            border-radius: 12px;
+            cursor: pointer;
+            background-color: #ab6aaa;
+            }
+            button:hover{
+            transition: 0.2s ease-in;
+            color: white;
+            background-color: #592558;
+            box-shadow: 0px 0px 8px black;
+            }
+            .results{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-around;
+            }
+            .recommended-activites {
+                overflow-y: auto;
+                max-height: 400px;
+            }
+            .recommended-activites::-webkit-scrollbar{
+                background: #c2a6c1;
+                border-radius: 15px;
+
+            }
+            .recommended-activites::-webkit-scrollbar-thumb{
+                background: #915990;
+                border-radius: 15px;
+            }
+            .recommended-activites ul{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .recommended-activites ul li{
+                margin-bottom: 5px;
+                list-style-type: none;;
+                background: rgb(234, 219, 234);
+                font-family: sans-serif;
+                border: 1.7px solid rgba(56, 1, 56, 0.183);
+                color: rgb(50, 0, 50);
+                box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.352);
+                border-radius: 9px;
+                padding: 10px;
+                width: 80%;
+                /* height: 40px; */
+                justify-content: center;
+            }
+            
+    </style>
+</head>
+<body style="box-sizing: border-box;margin: 0;padding: 0;">
+    <header style="background-color: #592558;color: #fff;display: flex;justify-content: space-between;align-items: center;padding: 1rem;">
+        <h1 style="margin: 0;
+        font-size: 1.2rem;">Sentiment Analysis for Enhanced Well-Being using NLP and Chi-Square modelling</h1>
+        <nav>
+            <ul style="list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;">
+              <img src="/static/Website_Images/logo.png" alt="" style="width: 150px;" />
+    
+            </ul>
+          </nav>
+    </header>
+    <main style="height:230vh;background-size:cover;background-repeat:repeat;background-image: url(/static/Website_Images/bg_pages.jpeg);padding: 2.5rem;align-items: center;">
+        <h1 style="font-size: 40px;color: #156669;">Feeling overwhelmed? Let us help you out!</h1>
+        <form action="/submit" method="post" class="form">
+            <label> Describe any particular feelings or emotions that stand out for you today.</label>
+            <input type="text" name="answer_1"><br>
+            <label> Tell me something about your day.</label>
+            <input type="text" name="answer_2"><br>
+            <label> How well do you manage your time?</label>
+            <select name="answer_3">
+                <option value="Excellent">Excellent</option>
+                <option value="Average">Average</option>
+                <option value="Poor">Poor</option>
+            </select><br>
+            <label> How often are you involved in any physical activity?</label>
+            <select name="answer_4">
+                <option value="Often">Often</option>
+                <option value="Sometimes">Sometimes</option>
+                <option value="Rarely">Rarely</option>
+            </select><br>
+            <label> How often do you get 8 hours of sleep?</label>
+            <select name="answer_5">
+                <option value="Often">Often</option>
+                <option value="Sometimes">Sometimes</option>
+                <option value="Rarely">Rarely</option>
+            </select><br><br>
+            <button type="submit">Submit</button>
+        </form>
+        {% if result %}
+            <!-- <p>Results:</p> -->
+            <ul> 
+                <!-- <img src="{{ url_for('static', filename='graph.png') }}" alt="Emotion Plot"> -->
+                <section class="results">
+                    <h1 style="font-size: 40px;color: #156669;text-align: center;">Recommended Activities</h1>
+                    <div class="recommended-activites">
+                        <ul>
+                            {% for element in result %}
+                            <li>{{ element }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="graph">
+                        <h1 style="font-size: 40px;color: #156669;text-align: center;">Sentiment Intensity Plot</h1>
+                        <!-- <img src= "{{ image_path }}" alt="Emotion Plot" class="image"> -->
+                        <img style="width: 500px;margin-bottom: 60px;box-shadow: 0px 0px 12px rgba(0, 0, 0,0.5);" src= {{ image_path }} alt="Emotion Plot" class="image">
+                    </div>
+                </section>
+
+            </ul>
+        {% endif %}
+    </main>
+</body>
+</html>
