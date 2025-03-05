@@ -8,11 +8,11 @@ The Sentiment Analysis for Enhanced Well-being project employed NLP techniques a
 
 1. [Requirements](#requirements)
 2. [Installation](#installation)
-3. [Features](#features)
-4. [Screenshots](#screenshots)
-5. [Demo](#demo)
-6. [Feedback](#feedback)
-7. [Contributing](#contributing)
+3. [Screenshots](#screenshots)
+4. [Demo](#demo)
+5. [Feedback](#feedback)
+6. [Contributing](#contributing)
+   
 ## Requirements
 
 1. bokeh==3.3.4
@@ -44,21 +44,14 @@ python Dasboard.py
 ```bash
 python app.py
 ```
-## Features yashi
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## Screenshots
 
 
 
-## Demo yashi
+## Demo Yashi
 
-Insert gif or link to demo
+link to demo
 
 
 ## Feedback
